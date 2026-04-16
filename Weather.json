@@ -1,2 +1,49 @@
 {
+  "updateDate": "20260416",
+  "currentWeather": "cloudy",
+  "hourly": [
+    {
+      "time": "18",
+      "weather": "normal"
+    }
+    {
+      "time": "00",
+      "weather": "normal"
+    },
+    {
+      "time": "06",
+      "weather": "normal"
+    },
+    {
+      "time": "12",
+      "weather": "rain"
+    },
+    {
+      "time": "18",
+      "weather": "rain"
+    }
+  ],
+  "daily": [
+    {
+      "dayOfWeek": "星期五",
+      "weather": "rain"
+    },
+    {
+      "dayOfWeek": "星期六",
+      "weather": "meteor"
+    },
+    {
+      "dayOfWeek": "星期天",
+      "weather": "normal"
+    },
+    {
+      "dayOfWeek": "星期ㄧ",
+      "weather": "normal"
+    },
+    {
+      "dayOfWeek": "星期二",
+      "weather": "rain"
+    }
+    
+  ]
 }
