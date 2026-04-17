@@ -3,14 +3,6 @@
   "currentWeather": "cloudy",
   "hourly": [
     {
-      "time": "18",
-      "weather": "normal"
-    },
-    {
-      "time": "00",
-      "weather": "normal"
-    },
-    {
       "time": "06",
       "weather": "normal"
     },
@@ -21,13 +13,17 @@
     {
       "time": "18",
       "weather": "rain"
+    },
+    {
+      "time": "00",
+      "weather": "meteor"
+    },
+    {
+      "time": "06",
+      "weather": "normal"
     }
   ],
   "daily": [
-    {
-      "dayOfWeek": "星期五",
-      "weather": "rain"
-    },
     {
       "dayOfWeek": "星期六",
       "weather": "meteor"
@@ -43,6 +39,10 @@
     {
       "dayOfWeek": "星期二",
       "weather": "rain"
+    },
+    {
+      "dayOfWeek": "星期三",
+      "weather": "rainbow"
     }
     
   ]
