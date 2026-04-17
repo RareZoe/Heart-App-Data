@@ -3,14 +3,6 @@
   "currentWeather": "cloudy",
   "hourly": [
     {
-      "time": "06",
-      "weather": "normal"
-    },
-    {
-      "time": "12",
-      "weather": "rain"
-    },
-    {
       "time": "18",
       "weather": "rain"
     },
@@ -21,6 +13,14 @@
     {
       "time": "06",
       "weather": "normal"
+    },
+    {
+      "time": "12",
+      "weather": "normal"
+    },
+    {
+      "time": "18",
+      "weather": "rain"
     }
   ],
   "daily": [
