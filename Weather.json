@@ -24,10 +24,6 @@
   ],
   "daily": [
     {
-      "dayOfWeek": "星期天",
-      "weather": "normal"
-    },
-    {
       "dayOfWeek": "星期ㄧ",
       "weather": "normal"
     },
@@ -42,6 +38,10 @@
     {
       "dayOfWeek": "星期四",
       "weather": "meteor"
+    },
+    {
+      "dayOfWeek": "星期五",
+      "weather": "normal"
     }
     
   ]
