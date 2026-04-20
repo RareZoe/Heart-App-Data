@@ -1,48 +1,48 @@
 {
-  "updateDate": "20260418",
-  "hourly": [
-    {
-      "time": "00",
-      "weather": "normal"
-    },
-    {
-      "time": "06",
-      "weather": "normal"
-    },
-    {
-      "time": "12",
-      "weather": "normal"
-    },
-    {
-      "time": "18",
-      "weather": "normal"
-    },
-    {
-      "time": "00",
-      "weather": "normal"
-    }
-  ],
-  "daily": [
-    {
-      "dayOfWeek": "星期ㄧ",
-      "weather": "normal"
-    },
-    {
-      "dayOfWeek": "星期二",
-      "weather": "rain"
-    },
-    {
-      "dayOfWeek": "星期三",
-      "weather": "rainbow"
-    },
-    {
-      "dayOfWeek": "星期四",
-      "weather": "meteor"
-    },
-    {
-      "dayOfWeek": "星期五",
-      "weather": "normal"
-    }
-    
-  ]
+    "updateDate": "20260418",
+    "hourly": [
+        {
+            "time": "18",
+            "weather": "normal"
+        },
+        {
+            "time": "00",
+            "weather": "normal"
+        },
+        {
+            "time": "06",
+            "weather": "rain"
+        },
+        {
+            "time": "12",
+            "weather": "rain"
+        },
+        {
+            "time": "18",
+            "weather": "normal"
+        }
+    ],
+    "daily": [
+        {
+            "dayOfWeek": "星期二",
+            "weather": "rain"
+        },
+        {
+            "dayOfWeek": "星期三",
+            "weather": "rainbow"
+        },
+        {
+            "dayOfWeek": "星期四",
+            "weather": "meteor"
+        },
+        {
+            "dayOfWeek": "星期五",
+            "weather": "normal"
+        },
+        {
+            "dayOfWeek": "星期六",
+            "weather": "rain"
+        }
+        
+    ]
 }
