@@ -2,10 +2,6 @@
     "updateDate": "20260418",
     "hourly": [
         {
-            "time": "18",
-            "weather": "normal"
-        },
-        {
             "time": "00",
             "weather": "normal"
         },
@@ -20,13 +16,13 @@
         {
             "time": "18",
             "weather": "normal"
+        },
+        {
+            "time": "00",
+            "weather": "rain"
         }
     ],
     "daily": [
-        {
-            "dayOfWeek": "星期二",
-            "weather": "rain"
-        },
         {
             "dayOfWeek": "星期三",
             "weather": "rainbow"
@@ -42,7 +38,10 @@
         {
             "dayOfWeek": "星期六",
             "weather": "rain"
-        }
-        
+        },
+        {
+            "dayOfWeek": "星期日",
+            "weather": "normal"
+        }        
     ]
 }
