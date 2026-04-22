@@ -2,14 +2,6 @@
     "updateDate": "20260418",
     "hourly": [
         {
-            "time": "00",
-            "weather": "rain"
-        },
-        {
-            "time": "06",
-            "weather": "rainbow"
-        },
-        {
             "time": "12",
             "weather": "normal"
         },
@@ -19,6 +11,14 @@
         },
         {
             "time": "00",
+            "weather": "normal"
+        },
+        {
+            "time": "06",
+            "weather": "normal"
+        },
+        {
+            "time": "12",
             "weather": "normal"
         }
     ],
